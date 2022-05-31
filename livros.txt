@@ -1,0 +1,560 @@
+1007245;ficciones
+1000030;40 novelas
+1000337;antígona
+1006202;antologia massanova
+1005353;sobre a tradução
+1004516;pedro e o rouxinol
+1000569;aventura do livro do leitor ao navegador, a
+1007708;luar
+1001135;cien años de soledad
+1002061;el cartero de neruda
+1000815;brasileiríssimas
+1002247;esto contaréis a vuestros hijos: un libro sobre el holocausto en europa 1933 – 1945, de
+1000201;alucinante namoro do menestrel e a lagartixa, o
+1000198;almanaque do samba
+1006488;carta ao pai
+1004691;poética do pós-modernismo
+1000230;american heritage dictionary
+1000247;amor é contagioso, o
+1001337;conjugar es facil
+1007158;espera, a
+1000176;aletria: revista de estudos de literatura
+1004236;nova cozinha nordestina: a comida regional com um toque de classe
+1000341;antologia massanova
+1001179;coerencia textual, a
+1005320;senhora
+1005568;teoria da forma literária
+1005742;tres irmãs, as
+1002362;fabulário geral do delírio cotidiano
+1003198;ítacas
+1003222;leituras sobre a leitura: passos e espaços em sala de aula
+1003014;idéias literárias de alencar: um programa nacionalista, a
+1001328;conferências do v congresso internacional da associação brasileira de linguistica
+1004081;ñaque & ay carmela!
+1004470;passagem para o poético: filosofia e poesia em heidegger
+1007280;flores y blancaflor / la reina sevilla (libros de caballerias)
+1001653;cultura popular na idade média e no renascimento, a
+1002393;festa no céu, a
+1004859;programa da 57ª reunião anual da sbpc
+1007064;embrulho
+1000578;baladas
+1004646;poeta en nueva york
+1004700;políticas da escrita
+1004631;platão: os pensadores
+1007522;inglês sem mestre 1º volume: gramática, expressões idiomáticas, noções de literatura
+1006932;deserto dos tártaros, o
+1000451;arte de ser feliz, a
+1003201;jantares especiais – comendo bem e com saúde
+1000682;boa terra, a
+1000708;boca do inferno
+1005077;revista brasileira de linguística aplicada vol 11 número 3 (2013)
+1000741;bodas de sangue
+1000762;bolachas e biscoitos
+1003816;menino no espelho, o
+1004348;obscena senhora d, a
+1006669;complexo, arquétipo, símbolo na psicologia de c. g. jung
+1007799;menino no espelho, o
+1004801;problemas da literatura infantil
+1004128;new ace student book - vol 2
+1003005;hugo cabret
+1002828;harry potter e o enigma do príncipe
+1002468;flores y blancaflor / la reina sevilla (libros de caballerias)
+1000224;amar, verbo intransitivo
+1001896;doidinho
+1001264;complete stories of sherlock holmes, the
+1005550;tempo na narrativa, o
+1004508;patinho realmente feio e outras histórias malucas, o
+1002630;gramática da língua inglesa
+1003258;literatura e sociedade
+1001195;coesao textual, a
+1001663;da morte. odes mínimas.
+1005753;três mosqueteiros, os
+1002156;eragon, a herança
+1001074;chapéu de três bicos, o
+1003656;mar de luz
+1002481;fluxo-floema
+1002363;fera na selva, a
+1004138;new ace student book - vol 3
+1006446;burlador de sevilla y convidado de piedra, el
+1001164;clara dos anjos
+1002220;estar sendo. ter sido.
+1003574;manual da redação
+1006178;antiga musa: arqueologia da ficção
+1003523;luar
+1001208;como agua para chocolate
+1001440;coração das trevas, o
+1007361;harry potter e a ordem da fênix
+1000525;através do espelho
+1006948;discurso sobre a origem e fundamentos da desigualdade entre os homens
+1001006;castelo dos destinos cruzados, o
+1003179;introdução à teoria da literatura
+1001308;conceitos fundamentais da poética
+1000319;antiga musa: arqueologia da ficção
+1000506;associação das senhoras de caridade de campina grande – pb
+1004597;personagem de ficção, a
+1003456;livro por vir, o
+1007633;literatura infantil, a
+1001836;discurso sobre a origem e fundamentos da desigualdade entre os homens
+1001241;como treinar o seu dragão
+1002533;frente e verso
+1006351;bibliografia analitica da literatura infantil e juvenil publicada no brasil 1975-1978 (vol 2)
+1007563;introdução a uma poética da diversidade
+1003862;michaelis: dicionário escolar francês: francês-português, português-francês
+1001463;corpo de mulher, um
+1005344;sobre a modernidade: o pintor da vida moderna
+1006267;arranjos para assobio
+1006010;40 novelas
+1001530;criança e a violência na mídia, a
+1001552;crítica da razão prática
+1002140;entradas e saladas – comendo bem e com saúde
+1005289;seleta para jovens
+1004282;nuevos cuentos de bustos domecq
+1005392;sol negro
+1001129;chico buarque do brasil
+1001916;domingo à tarde
+1007002;duelo de lampião e dom quixote, o
+1001967;duck soup
+1007400;história da eternidade
+1002408;ficciones
+1001683;demônio da teoria, o
+1002426;figuras
+1002285;eu e o inconsciente, o
+1001274;complexo, arquétipo, símbolo na psicologia de c. g. jung
+1002508;fonologia do português
+1001761;deshumanización del arte e ideas sobre la novela, la
+1006497;case notes of sherlock holmes, the
+1002790;harry poter e a pedra filosofal
+1000837;buenos aires: guia do turista brasileiro
+1001831;dirceu e marília
+1006412;bom crioulo
+1002317;europa: guia visual
+1004766;primeiro beijo e outros contos, o
+1001161;ciranda de pedra
+1004649;poética clássica, a
+1005983;zorba, o grego
+1005181;roteiro: ate e técnica de escrever para televisão
+1003423;livro de pré-coisas
+1005636;terra e os devaneios do repouso, a
+1003553;madame bovary
+1005121;revista de estudos da linguagem ano 5 vol 2 número 4 (jul-dez 1996)
+1002193;estâncias: a palavra e o fantasma na cultura ocidental
+1002105;empolgante caso do romance policial, o
+1002036;é tudo invenção
+1006883;demônio da teoria, o
+1003894;mímesis: desafio ao pensamento
+1000801;brasil nunca mais
+1000038;50 receitas de pratos light de 15 minutos
+1003049;in italiano: corso multimediale di lingua e civiltà a livello elementare e avanzato - vol1
+1005664;topless
+1001664;dedo-duro
+1001946;dona benta: comer bem
+1002147;entre percurso e vanguarda: alguma poesia de p. leminski
+1003271;literatura infantil brasileira
+1007150;escrava isaura, a
+1004417;panorama de la langue françaies - vol 1
+1006610;coerencia textual, a
+1002171;espera, a
+1006222;antologia poética:poemas escolhidos da literatura portuguesa e brasileira
+1005468;tablados
+1004911;que é loucura?, o
+1005627;terra e os devaneios da vontade, a
+1002418;ficções lobatianas: dona aranha e as seis aranhinhas no sítio do picapau amarelo
+1006050;abdias
+1005785;trocando receitas para momentos especiais
+1002746;guia criativo para o viajante independente na europa
+1006771;cosmopolitismo do pobre: crítica literária e crítica cultural, o
+1002883;história concisa da semiótica
+1007867;mínimo eu
+1006905;descoberta do inconsciente: do desejo ao sintoma, a
+1002387;festa do bode, a
+1002130;ensaios fotográficos
+1001670;deleuze e a filosofia
+1006868;da morte. odes mínimas.
+1004880;pubis angelical
+1003821;mensagem
+1006650;como treinar o seu dragão
+1007229;fabulário geral do delírio cotidiano
+1005791;tudo sobre fotografia
+1002356;experiência do fora: blanchot, foucault, deleuze, a
+1005295;señas: diccionário para la enseñanza de la lengua española para brasileños
+1003482;lógicas do delírio: razão, afeto, loucura, as
+1004814;problemas da poética de dostoiévski
+1006333;bartleby, o escrivão
+1003422;livro de manuel, o
+1000633;beso de la mujer araña, el
+1005900;vida que ninguém vê, a
+1002610;gostoso sabor do dia-a-dia: a culinária com muito mais sabor, o
+1003807;menino maluquinho, o
+1002634;gramática do português brasileiro
+1006100;admirável mundo novo
+1005880;vestibular ufmg 2002 (analises de obras e testes)
+1002245;estética da criação verbal
+1004200;noches de montmartre
+1004445;parte do fogo, a
+1003304;livre des antipodes, le
+1007232;fera na selva, a
+1007345;grande gatsby, o
+1002794;harry potter e a ordem da fênix
+1005059;resto de teu corpo no aquário, o
+1007298;fonologia do português
+1005148;revista de estudos da linguagem vol 13 número 2 (jul-dez 2005)
+1004583;pequeno dicionário de palavras ao vento
+1005036;residencia en la tierra
+1007096;ensaios fotográficos
+1002879;história concisa da literatura brasileira
+1006599;ciranda de pedra
+1002919;história da filosofia, a
+1007255;figuras
+1006548;chapeuzinho amarelo
+1007074;ensaios de linguística: cadernos de linguística e teoria da literatura
+1007413;história da literatura brasileira
+1002986;história lamentável, uma
+1002987;holocausto das fadas: trilogia obscena e o carmelo bufólico de hilda hilst
+1002988;homem para homem, de
+1006703;contos d'escárnio. textos grotescos.
+1004628;pixarpedia
+1005512;te amo sobre todas as coisas
+1007385;harry potter e o cálice de fogo
+1005209;rútilos
+1001579;crítica e clínica
+1003064;increíble y triste história de la cándida eréndira y de su abuela desalmada, la
+1003448;livro infantil: elaboração e consumo, o
+1005524;temas de filosofia
+1007588;leituras sobre a leitura: passos e espaços em sala de aula
+1003107;inglês sem mestre 3º volume: dicionário de inglês-português
+1003118;inimigo rumor
+1001400;convergentes
+1005444;sujeito, tempo e espaço ficcionais: introdução à teoria da literatura
+1004392;pai: língua e literatura - vol 3
+1004056;música ao longe
+1005368;sociedade de consumo, a
+1003624;mãos, as
+1003429;livro dos seres imaginários, o
+1006594;cien años de soledad
+1000094;adivinha quanto eu te amo
+1003249;lírica, épica, teatro, cartas
+1004423;papel do intelectual hoje, o
+1000924;cantar de mio cid
+1005637;texto e a construção dos sentidos, o
+1003677;martin fierro, o
+1002181;essa história está diferente
+1003328;livro das ignorãças, o
+1006025;50 receitas de pratos light de 15 minutos
+1007845;mímesis: desafio ao pensamento
+1000911;caixa preta, a
+1005235;saül
+1003203;júbilo, memória, noviciado da paixão
+1001800;dicionário de falsos amigos – armadilhas na tradução do espanhol para o português
+1001029;cerejas, as
+1004250;nova gramática do português contemporâneo
+1003400;livro das mil e uma noites - vol 4 ramo egípcio + aladim & ali babá
+1003106;inglês sem mestre 2º volume: conversação
+1003470;lógica do sentido
+1000547;aventura de um cliente ilustre, a; último adeus de sherlock holmes, o
+1003504;lolita
+1002691;grammaire pratique du français en 80 fiches
+1003545;luneta mágica, a
+1004822;problemas de redação
+1004957;que horas são?
+1004554;pensamento vivo de oswald de andrade, o
+1001052;certo capitão rodrigo, um
+1002806;harry potter e as relíquias da morte
+1004184;new ace workbook - vol 3
+1001478;corpo impossível, o
+1002567;gazua: exercício de poesia – nº 0
+1003704;memórias da emília
+1000999;casa dos budas ditosos, a
+1006511;celestina, la
+1006540;chapéu de três bicos, o
+1003757;menina dos cabelos de capim, a
+1001705;depoimento de humberto teixeira
+1003913;mireia
+1006506;castelo dos destinos cruzados, o
+1007686;livro dos seres imaginários, o
+1000626;benditos
+1003848;michaelis: dicionário escolar espanhol: espanhol-português, português-espanhol
+1001222;como e porque ler a literatura infantil brasileira
+1003196;introdução a uma poética da diversidade
+1003960;morro dos ventos uivantes, o
+1003897;mínimo eu
+1003088;inglês sem mestre 1º volume: gramática, expressões idiomáticas, noções de literatura
+1006804;cuántos cuentos cuentas tú
+1007308;geração que esbanjou seus poetas, a
+1001421;conversas com tradutores: balanços e perspectivas da tradução
+1003378;livro das mil e uma noites - vol 3 ramo egípcio
+1004023;mulher gigante, a
+1004039;mundo é mágico, o
+1005605;teoria do conto
+1003285;literatura portuguesa, a
+1004100;nariz do morto, o
+1004936;que é semiótica?, o
+1002960;história do olho
+1000536;aula
+1006290;associação das senhoras de caridade de campina grande – pb
+1001775;desobediência civil
+1000118;admirável mundo novo
+1002874;heidegger & ser e tempo
+1006459;cantar de mio cid
+1005279;seis propostas para um novo milênio: lições americanas
+1005265;seis passeios pelos bosques da ficção
+1000790;bordados
+1000680;bibliografia analítica da literatura infantil e juvenil publicana no brasil entre 1975 e 1978 (vol 2)
+1004255;nudez da verdade, a
+1004288;objetos
+1003830;michaelis s.o.s espanhol: guia prático de gramática
+1006398;bolachas e biscoitos
+1003159;introdução à sociolinguística: o tratamento da variação
+1001108;chica e joão
+1004352;oito contos de amor
+1004357;oliver, jamie
+1000773;bom crioulo
+1004364;onde vivem os monstros
+1000299;antes do baile verde
+1002899;história da eternidade
+1006483;cantares
+1001166;cobra norato
+1001353;contos de beedle o bardo, o
+1004725;pré-socráticos: os pensadores
+1007754;memórias da emília
+1007505;in italiano: corso multimediale di lingua e civiltà a livello elementare e avanzato - vol2
+1000993;cartas a um jovem poeta e a canção de amor e de morte do porta-estandarte cristóvão rilke
+1000072;a corte vai passar
+1000866;burlador de sevilla y convidado de piedra, el
+1004612;perspectiva do quase, a
+1006166;amor é contagioso, o
+1002852;harry potter e o prisioneiro de azkaban
+1000880;caderno rosa de lori lamby, o
+1007669;livro das mil e uma noites - vol 1 ramo sírio
+1003345;livro das mil e uma noites - vol 1 ramo sírio
+1000614;bartleby, o escrivão
+1000031;50 lanches light de 15 minutos
+1007728;martin fierro, o
+1004895;quando todos os acidentes acontecem
+1004643;poesia
+1001858;do desejo
+1006757;corpo impossível, o
+1005862;vermelho e o negro, o
+1004561;pensar complexo: edgar morin e a crise da modernidade, o
+1006517;certo capitão rodrigo, um
+1005010;república, a
+1003729;memórias de um sargento de milícias
+1007724;mãos, as
+1004746;primeiro amor
+1003032;imagem e memória
+1004781;princípios de linguística descritiva
+1000587;barão nas árvores, o
+1005214;saci, o
+1005715;tratado geral de semiótica
+1004825;produção escrita e a gramática, a
+1004703;prazer do texto, o
+1001283;comunicação em prosa moderna
+1005806;último lugar da terra, a
+1004988;reflexões sobre augusto dos anjos
+1002573;geração que esbanjou seus poetas, a
+1000450;arranjos para assobio
+1001000;case notes of sherlock holmes, the
+1001985;duelo de lampião e dom quixote, o
+1003883;mimesis
+1002108;ensaios de linguística: cadernos de linguística e teoria da literatura
+1007685;livro de manuel, o
+1005580;teoria da literatura: uma introdução
+1003233;libro del buen amor
+1006852;cuentos de amor, de locura y de muerte y los desterrados
+1007319;gostoso sabor do dia-a-dia: a culinária com muito mais sabor, o
+1000402;argumentação contra a morte da arte
+1001605;cuántos cuentos cuentas tú
+1006455;cadernos de literatura: hilda hilst – nº8
+1001628;cuentos breves y extraordinarios
+1001654;curta o acervo 1999-2009
+1000375;arco y la lira, el
+1005156;revolução dos bichos, a
+1005168;rosa de sant jordi, la
+1001924;don quijote de la mancha
+1001503;cosmopolitismo do pobre: crítica literária e crítica cultural, o
+1001349;conto da ilha desconhecida, o
+1000197;alice no país das maravilhas
+1002039;editoras mineiras: panorama histórico - vol1
+1002299;europa: guia de conversação para viagens
+1006113;aforismos e afins
+1004385;origem e evolução do maracatu no ceará
+1003336;livro das metades do joão, o
+1001380;contos picarescos
+1004235;nova antologia poética
+1003549;macunaíma
+1001090;chapeuzinho amarelo
+1004640;poderoso chefão, o
+1006943;die bremer
+1000484;árvore dos desejos, a
+1004387;outside: notas à margem
+1005401;sonho de uma noite de verão
+1007027;durante aquele estranho chá
+1006337;benditos
+1001707;descoberta do inconsciente: do desejo ao sintoma, a
+1001878;doces e sobremesas
+1005488;tatá e dó-ré-mi-fá no reino do calajá
+1003633;mapa da exclusão social no brasil
+1005204;rumor da língua, o
+1002461;flor de poemas
+1002644;gramática latina: curso único e completo
+1003975;morte de ivan ilitch, a
+1002549;gaudí
+1003939;moreninha, a
+1001201;com meus olhos de cão
+1003272;literatura infantil, a
+1005653;the complete stories of sherlock holmes
+1005843;veinte poemas de amor y una canción desesperada
+1004212;notícia de um sequestro
+1001717;desde las cenizas
+1007566;jantares especiais – comendo bem e com saúde
+1006568;chica e joão
+1001736;deserto dos tártaros, o
+1004634;poder de um sonho, o
+1002773;harry poter e a câmara secreta
+1005783;triste fim do pequeno menino ostra & outras histórias, o
+1006698;conto da ilha desconhecida, o
+1000371;ar e os sonhos, o
+1000004;200 receitas com baixo teor de gordura
+1006877;dedo-duro
+1007194;eu e o inconsciente, o
+1002106;ensaio sobre a cegueira
+1007435;história lamentável, uma
+1004845;profanaciones
+1001367;contos d'escárnio. textos grotescos.
+1005928;visconde partido ao meio, o
+1003738;memórias inventadas: a infância
+1000353;antologia poética:poemas escolhidos da literatura portuguesa e brasileira
+1007611;literatura e sociedade
+1003138;introdução à literatura fantástica
+1001851;distorsiones
+1000427;aristóteles: os pensadores
+1005960;vôo da rainha, o
+1005940;vocabulário latim-português, português-latim: expressões latinas, subsídios gramaticais latinos
+1005792;tuya
+1002668;gramática: teoria e exercícios
+1004362;on the road
+1006941;deshumanización del arte e ideas sobre la novela, la
+1002442;filosofia medieval
+1002011;durante aquele estranho chá
+1005103;revista de estudos da linguagem ano 4 vol 1 número 3 (jan-jun 1995)
+1000974;carta ao pai
+1006966;doces e sobremesas
+1004497;pata da gazela, a
+1003050;in italiano: corso multimediale di lingua e civiltà a livello elementare e avanzato - vol2
+1006676;conde lucanor, el
+1004960;questões de literatura e estética
+1005386;sofá estampado, o
+1006287;arte e beleza na estética medieval
+1007500;il favoloso álbum de amelie
+1006295;aventura de um cliente ilustre, a; último adeus de sherlock holmes, o
+1002957;historia de una gaviota y del gato de le enseñó a volar
+1004670;poética do espaço, a
+1003756;memórias póstumas de brás cubas
+1004596;persépolis
+1006371;boca do inferno
+1004311;obra aberta
+1003023;il favoloso álbum de amelie
+1006430;brasileiríssimas
+1002934;história da literatura brasileira
+1005684;trabalho da citação, o
+1000905;cadernos de literatura: hilda hilst – nº8
+1001323;conde lucanor, el
+1000631;benjamim
+1007559;introdução à sociolinguística: o tratamento da variação
+1007203;europa: guia visual
+1003353;livro das mil e uma noites - vol 2 ramo sírio
+1004967;raízes do brasil
+1007649;livro das ignorãças, o
+1005443;student's grammar
+1000157;aleph, o
+1006792;crítica da razão prática
+1000348;antologia poética
+1000272;ana e pedro: cartas
+1004146;new ace workbook - vol 1
+1006649;como agua para chocolate
+1002131;ensaios sobre literatura
+1002731;guardador de águas, o
+1000138;aforismos e afins
+1001487;cortiço, o
+1006318;baladas
+1006716;contos picarescos
+1007761;memórias inventadas: a infância
+1007477;idéias literárias de alencar: um programa nacionalista, a
+1005883;vida passada a limpo, a
+1007321;gramática latina: curso único e completo
+1004164;new ace workbook - vol 2
+1005000;rensumen practico de gramatica española
+1007300;gaudí
+1007186;estética da criação verbal
+1006622;com meus olhos de cão
+1005428;sono tranquilo
+1006754;corpo de mulher, um
+1002085;embrulho
+1002714;grande gatsby, o
+1001818;die bremer
+1000860;bufólicas
+1001648;cuentos de amor, de locura y de muerte y los desterrados
+1003597;manual de teoria literária
+1002329;exame de proficiência celpe-bras em foco, o
+1006830;cuentos breves y extraordinarios
+1006751;conversas com tradutores: balanços e perspectivas da tradução
+1005849;venha ver o pôr-do-sol e outros contos
+1007040;editoras mineiras: panorama histórico - vol1
+1005695;transatlântico
+1001597;crítica, teoria e literatura infantil
+1005776;trilha dos ninhos de aranha, a
+1007111;entre a boca da noite e a madrugada
+1007126;eragon, a herança
+1002157;escrava isaura, a
+1007540;inimigo rumor
+1007178;essa história está diferente
+1006993;don quijote de la mancha
+1006729;convegências: ensaios sobre arte e literatura
+1000729;bodas de sangre
+1007218;exame de proficiência celpe-bras em foco, o
+1005074;retrato vivo da grande aventura
+1003784;menininha e o poeta, a
+1000660;bibliografia analitica da literatura infantil e juvenil publicada no brasil 1975-1978 (vol 2)
+1002814;harry potter e o cálice de fogo
+1005912;vidas secas: 70 anos
+1002546;gaivota, a
+1002259;estranha máquina extraviada, a
+1005151;revista de estudos da linguagem vol 14 número 2 (jul-dez 2006)
+1002572;general em seu labirinto, o
+1002921;história da leitura, uma
+1001389;convegências: ensaios sobre arte e literatura
+1007357;guia criativo para o viajante independente na europa
+1005828;uma duas
+1004122;new ace student book - vol 1
+1007390;heidegger & ser e tempo
+1000346;antologia mulheres emergentes nº18
+1005342;ser e tempo - parte 1
+1005656;toda mafalda
+1007452;homem para homem, de
+1004227;noturno
+1000082;abdias
+1004338;obras escolhidas: magia e técnica, arte e política
+1005790;tu não te moves de ti
+1007675;livro das mil e uma noites - vol 2 ramo sírio
+1002341;exercícios
+1001224;como e porque ler os clássicos universais desde cedo
+1001017;celestina, la
+1002585;good cooking
+1000464;arte e beleza na estética medieval
+1000950;cantares
+1002144;entre a boca da noite e a madrugada
+1006130;aletria: revista de estudos de literatura
+1000057;55 começos
+1006151;alucinante namoro do menestrel e a lagartixa, o
+1006241;arco y la lira, el
+1007687;lógica do sentido
+1003086;infancia
+1007713;madame bovary
+1004732;primavera con una esquina rota
+1004528;pensamento vivo de fernando pessoa, o
+1006077;adivinha quanto eu te amo
+1005080;revista da abralin vol6 número 1 (jan-jun 2007)
+1007782;menina dos cabelos de capim, a
+1005254;se um viajante numa noite de inverno
+1007824;michaelis: dicionário escolar espanhol: espanhol-português, português-espanhol
+1004001;mulerez
+1005931;visita
