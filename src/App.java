@@ -1,25 +1,25 @@
 
+import java.io.EOFException;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
+import java.io.Serializable;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Random;
 import java.util.Scanner;
-import java.util.TreeSet;
+
 import components.Cliente;
+import components.Emprestimo;
 import components.Livro;
-import components.ThreadSort;
+import components.ThreadEmprestar;
 
 public class App {
     static String nomeArq1 = "clientes.txt";
     static String nomeArq2 = "livros.txt";
-    static String nomeArq3 = "olhar.txt";
+    static String nomeArq3 = "guardarCliente.ser";
     
 
     public static List<Cliente> carregarCliente(String nomeArq) throws IOException {
@@ -50,49 +50,77 @@ public class App {
         return unidades;
     }
 
-    public static void gravadorObjeto(List<Livro> livros) throws IOException{
-        FileOutputStream fos = new FileOutputStream("guardarCliente.ser");
+    public static void gravadorObjeto(List<?extends Serializable> serializables, String nomeArquivo) throws IOException{
+        FileOutputStream fos = new FileOutputStream(nomeArquivo);
         ObjectOutputStream oos = new ObjectOutputStream(fos);
-        for (Livro livro : livros) {
-            oos.writeObject(livro);
+        for (Serializable s: serializables) {
+            oos.writeObject(s);
         }
         oos.close();
         
     }
 
-    public static List<Livro> LeitorObjeto() throws IOException{
-        FileInputStream fos = new FileInputStream("guardarCliente.ser");
+    public static List<?extends Serializable> LeitorObjeto(String nomeArquivo) throws IOException{
+        FileInputStream fos = new FileInputStream(nomeArquivo);
         ObjectInputStream oos = new ObjectInputStream(fos);
-        List<Livro> livros = new ArrayList<>();
+        List<Serializable> objeto = new ArrayList<>();
         try {
-            for(;;){
-                livros.add((Livro)oos.readObject());
+            while(true){
+                Serializable obj = (Serializable) oos.readObject();
+                objeto.add(obj);
             }
         } catch (ClassNotFoundException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
+        } catch(EOFException e) {
+            
         }
         
-        return livros;
+        return objeto;
         
     }
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-
+        String cliente = "";
+        String livro = "";
+        String terminarPrograma;
         List<Cliente> todosOsClientes = new ArrayList<>(carregarCliente(nomeArq1));
         List<Livro> todosOsLivros = new ArrayList<>(carregarLivro(nomeArq2));
-        
-        gravadorObjeto(todosOsLivros);
+        List<? extends Serializable> serie = LeitorObjeto(nomeArq3);
+        List<Emprestimo> emprestimos = (List<Emprestimo>)LeitorObjeto("guardarEmprestimos.ser");
+        Scanner scanner = new Scanner(System.in);
 
-        System.out.print(LeitorObjeto());
-            
-
-        long tempoInicial = System.currentTimeMillis();  
-        long tempoFinal = System.currentTimeMillis();  
-        System.out.print(tempoFinal-tempoInicial);
-
-
-
+        do{
+            System.out.print("Ver arquivo\n");
+            System.out.println(emprestimos);
+            System.out.print("Emprestar Livros\n");
+            System.out.print("Nome cliente : ");
+            cliente = scanner.nextLine();
+            System.out.print("Nome livro : ");
+            livro = scanner.nextLine();
+    
+            Cliente clienteAux = null;
+            Livro livroAux = null;
+            for(Cliente c : todosOsClientes) {
+                if(c.getNome().equals(cliente)){
+                    clienteAux = c;
+                }
+            }
+            for (Livro l : todosOsLivros) {
+                if(l.getNome().equals(livro)){
+                    livroAux = l;
+                }
+            }
+            if(clienteAux != null && livroAux != null){
+                new ThreadEmprestar(clienteAux, livroAux).start();
+                gravadorObjeto(todosOsClientes, "guardarCliente.ser");
+                gravadorObjeto(clienteAux.getEmprestimo(), "guardarEmprestimos.ser");
+            } else {
+                System.out.print("Cliente ou livro n�o encontrado");
+            }
+            System.out.println("Continuar com o programa ?");
+            terminarPrograma = scanner.nextLine();
+        }while(terminarPrograma.equals("sim"));
 
     }
     
